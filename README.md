@@ -23,7 +23,7 @@ this test in git hup
   <section id="about" class="section">
     <div class="container">
       <h2>About Me</h2>
-      <p>Hi, I'm Nguyen Vu, a passionate web developer who loves creating beautiful and functional websites.</p>
+      <p>Hi, I'm Mohamed tarek a passionate web developer who loves creating beautiful and functional websites.</p>
     </div>
   </section>
 
@@ -44,14 +44,14 @@ this test in git hup
   <section id="contact" class="section">
     <div class="container">
       <h2>Contact</h2>
-      <p>Email: example@example.com</p>
-      <p>LinkedIn: <a href="#">linkedin.com/in/nguyenvu</a></p>
+      <p>Email:mohamedtark102@gmail.com</p>
+      <p>LinkedIn: <a href="#">linkedin.com/in/netbuster/)</a></p>
     </div>
   </section>
 
   <footer>
     <div class="container">
-      <p>&copy; 2024 Nguyen Vu. All rights reserved.</p>
+      <p>&copy; 2024 mohamed tarek. All rights reserved.</p>
     </div>
   </footer>
 
