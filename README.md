@@ -7,7 +7,7 @@
 My Personal Portfolio Website is a web application developed using React and deployed to Netlify. It describes in detail my learning process and projects. If you have any questions, you can contact me through the mail mentioned on the website.
 #### Preview - __[Live Site](https://nguyenvu-personal-site.netlify.app/)__ 🚩
 ----
-![Preview!](src/assets/avatar2.jpg")
+![Preview!](/src/assets/portfolio2.jpg "Live Site")
 
 #### Content ⭐
 ---
@@ -20,6 +20,7 @@ My Personal Portfolio Website is a web application developed using React and dep
 - Social Link
 #### Tools 🛠️
 ---
-- 
+- __[Visual Studio Code](https://code.visualstudio.com/)__
+- __[Netlify](https://www.netlify.com/)__
 
-Live: https:///
+Live: https://nguyenvu-personal-site.netlify.app/
