@@ -1,4 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
+  // مثال على إضافة تأثير تفاعلي عند التمرير
   const sections = document.querySelectorAll('section');
   
   window.addEventListener('scroll', function() {
@@ -9,4 +10,3 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 });
-
