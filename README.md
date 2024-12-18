@@ -7,7 +7,7 @@
 My Personal Portfolio Website is a web application developed using React and deployed to Netlify. It describes in detail my learning process and projects. If you have any questions, you can contact me through the mail mentioned on the website.
 #### Preview - __[https://mohamedr5z9.github.io/mohamedtarek55github.io))__ 🚩
 ----
-![Preview!](/src/assets/portfolio1.jpg "Live Site")
+![Preview!](src/assets/avatar2.jpg")
 
 #### Content ⭐
 ---
