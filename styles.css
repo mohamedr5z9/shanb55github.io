@@ -1,12 +1,13 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 body {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family: 'Roboto', sans-serif;
     background-color: #f4f4f4; /* Light background */
+    color: #333; /* Dark text */
 }
 
 .container {
@@ -31,6 +32,65 @@ header p {
     font-size: 1.2em;
 }
 
+nav {
+    background: #2980b9; /* Blue */
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #ecf0f1; /* Light gray on hover */
+}
+
+section {
+    padding: 40px 0;
+    background: #ffffff; /* White background */
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+h2 {
+    color: #2980b9; /* Blue for section headings */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #34495e; /* Darker blue for subheadings */
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+ul li:last-child {
+    border-bottom: none; /* Remove border from last item */
+}
+
 .btn {
     display: inline-block;
     padding: 10px 20px;
@@ -45,30 +105,14 @@ header p {
     background: #3498db; /* Lighter blue */
 }
 
-section {
-    padding: 40px 0;
-    background: #ffffff; /* White background */
-    margin: 10px 0;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-}
-
-h2 {
-    color: #2980b9; /* Blue for section headings */
-    text-align: center;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-ul li {
-    padding: 10px;
-    border-bottom: 1px solid #ddd;
-}
-
 footer {
     text-align: center;
     padding: 20px 0;
-    background: #2
+    background: #2c3e50; /* Dark blue */
+    color: #ecf0f1; /* Light gray */
+}
+
+footer a {
+    color: #ecf0f1; /* Light gray */
+    text-decoration: none;
+}
