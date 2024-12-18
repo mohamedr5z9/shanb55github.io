@@ -2,10 +2,10 @@
 ---
 #### Overview 🔗
 ---
-👋 My name is MOHAMED TAREK. I graduated in Information Security. Currently, I am a Fresher Security Engineer and need a job.
+👋 My name is Nguyen Vu. I graduated in Information Security. Currently, I am a Fresher Security Engineer and need a job.
 
 My Personal Portfolio Website is a web application developed using React and deployed to Netlify. It describes in detail my learning process and projects. If you have any questions, you can contact me through the mail mentioned on the website.
-#### Preview - __[https://mohamedr5z9.github.io/mohamedtarek55github.io))__ 🚩
+#### Preview - __[Live Site](https://nguyenvu-personal-site.netlify.app/)__ 🚩
 ----
 ![Preview!](src/assets/avatar2.jpg")
 
@@ -21,3 +21,5 @@ My Personal Portfolio Website is a web application developed using React and dep
 #### Tools 🛠️
 ---
 - 
+
+Live: https:///
