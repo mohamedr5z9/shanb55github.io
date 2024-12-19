@@ -40,7 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        I am a cautious and perfectionist person. Desire to be a member of the Pentest Team. In the next 5 years,
+                        I am a cautious and perfectionist person. Desire to be a member of the Pentest Team. In the next 2 years,
                         I will be a Professional Pentester and have CEH, and CISSP certificates. I own 20 certificates from online
                         learning platforms like Coursera, Hackerrank, TryHackMe, Cisco... and a few soft skills certificates.
                     </p>
