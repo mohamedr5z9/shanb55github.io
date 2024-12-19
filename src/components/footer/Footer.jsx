@@ -28,16 +28,16 @@ const Footer = () => {
             </ul>
 
             <div className="footer__socials">
-                <a href="https://www.facebook.com/vunguyen260803.trying/"><FaFacebookF /></a>
-                <a href="https://www.youtube.com/channel/UC-UdQaOLqi0B9pL7TB3qiCQ"><AiOutlineYoutube /></a >
-                <a href="https://www.linkedin.com/in/nguyenvu2608/"><FaLinkedinIn /></a>
-                <a href="https://github.com/nguyenvu1310"><FaGithubAlt /></a>
-                <a href="http://nguyenvu1310.github.io/"><ImBlogger2 /></a >
+                <a href="https://www.facebook.com/profile.php?id=100028255297546"><FaFacebookF /></a>
+                <a href=""><AiOutlineYoutube /></a >
+                <a href="https://www.linkedin.com/in/netbuster/"><FaLinkedinIn /></a>
+                <a href="https://github.com/mohamedr5z9"><FaGithubAlt /></a>
+                <a href="https://github.com/mohamedr5z9/mohamedtarek55github.io/"><ImBlogger2 /></a >
                 <a href="https://discord.gg/JCRHvtD7"><RiDiscordLine /></a >
             </div >
 
             <div className="footer__copyright">
-                <small>&copy; <b><a href="https://www.linkedin.com/in/nguyenvu2608/">nguyenvu</a></b>. All rights reserved.</small>
+                <small>&copy; <b><a href="https://www.linkedin.com/in/netbuster/">mohamed tarek</a></b>. All rights reserved.</small>
             </div>
         </footer >
     )
