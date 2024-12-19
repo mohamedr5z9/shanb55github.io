@@ -12,7 +12,7 @@ const Services = () => {
                 {/* start Mô tả chi tiết */}
                 <article className="service">
                     <div className="service__head">
-                        <h3>Information Assurance Learning Path</h3>
+                        <h3>Information security Learning Path</h3>
                     </div>
                     <ul className='service__list'>
                         <li>
@@ -33,7 +33,7 @@ const Services = () => {
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
-                            <p>Network Forensics</p>
+                            <p>Network security</p>
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
@@ -41,7 +41,7 @@ const Services = () => {
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
-                            <p>Incident Response</p>
+                            <p>penteration testing</p>
                         </li>
                     </ul>
                 </article>
@@ -59,11 +59,11 @@ const Services = () => {
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
-                            <p><b>Networking Essentials</b> Course Certificate on Cisco</p>
+                            <p><b>Networking security </b> Course Certificate on Cisco</p>
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
-                            <p><b>Web Design for Everybody</b> Course Certificate on Coursera</p>
+                            <p><b>Web pentest </b> Course Certificate on elearn security </p>
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
@@ -71,11 +71,11 @@ const Services = () => {
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
-                            <p><b>Ethical Hacking for Beginners</b> Course Certificate on SimpliLearn</p>
+                            <p><b>Ethical Hacking for Beginners</b> Course Certificate on linkedin</p>
                         </li>
                         <li>
                             <BsCheckLg className='service__list-icon' />
-                            <p><b>Cybersecurity Foundations</b> Course Certificate on Linkedln</p>
+                            <p><b>oscp</b> Course Certificate on offsec</p>
                         </li>
                     </ul>
                 </article>
@@ -84,7 +84,7 @@ const Services = () => {
                 {/* Mô tả chi tiết */}
                 <article className="service">
                     <div className="service__head">
-                        <h3>Research Platform</h3>
+                        <h3>penteration tester</h3>
                     </div>
                     <ul className='service__list'>
                         <li>
