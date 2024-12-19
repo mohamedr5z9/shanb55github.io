@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG1 from 'src/assets/me.png'
+import IMG2 from '../../assets/prtofolio.jpeg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 
@@ -11,15 +11,15 @@ const data = [
         id: 1,
         image: IMG1,
         title: 'Personal Blog Website uses Jekyll (is a static site generator) and is hosted on Github.',
-        github: 'https://github.com/NguyenVu1310/NguyenVu1310.github.io',
-        demo: 'https://nguyenvu1310.github.io/',
+        github: 'https://github.com/mohamedr5z9/mohamedtarek55github.io',
+        demo: 'https://mohamedtarek55github.io/',
     },
     {
         id: 2,
         image: IMG2,
         title: 'My Personal Portfolio Website uses React and is deployed on Netlify.',
-        github: 'https://github.com/NguyenVu1310/netlify-personal-site',
-        demo: 'https://nguyenvu-personal-site.netlify.app/',
+        github: 'https://github.com/mohamedr5z9/mohamedtarek55github.io',
+        demo: 'https://github.com/mohamedr5z9/mohamedtarek55github.io/',
     },
     {
         id: 3,
